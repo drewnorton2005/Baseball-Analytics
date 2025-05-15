@@ -1,0 +1,1 @@
+This is a project I worked on to analyze baseball statistics using a combination of web scraping and pandas. I used baseball reference and a data table of homeruns to take in data and create visualizations to attempt at explaing a few trends in baseball.
